@@ -1,0 +1,9 @@
+# Ignore build, install, log folders
+build/
+install/
+log/
+
+# Ignore turtlebot3_simulations
+src/turtlebot3_simulations/
+
+.vscode/

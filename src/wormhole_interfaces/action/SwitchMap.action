@@ -1,0 +1,16 @@
+# Goaltrash:///wormhole_navigator/src/wormhole_navigator.cpp
+string from_map
+string to_map
+float64 exit_x
+float64 exit_y
+float64 exit_yaw
+float64 entry_x
+float64 entry_y
+float64 entry_yaw
+---
+# Result
+bool success
+string message
+---
+# Feedback
+string status
